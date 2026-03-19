@@ -10,6 +10,9 @@
         <mxCell id="bYsgczJFBWByLW0m-J_o-2" value="Ergonomics-oriented pattern (lower energy)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bYsgczJFBWByLW0m-J_o-3" value="ergonomic" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

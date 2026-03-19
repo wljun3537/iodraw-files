@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bYsgczJFBWByLW0m-J_o-1" value="Rack-efficient pattern" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="80" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

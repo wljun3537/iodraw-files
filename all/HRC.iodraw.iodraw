@@ -65,7 +65,7 @@
           <mxGeometry x="300" y="250" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-19" value="Order composition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="120" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

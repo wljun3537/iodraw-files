@@ -10,6 +10,9 @@
         <mxCell id="bYsgczJFBWByLW0m-J_o-2" value="(b) Ergonomic pattern&lt;div&gt;(lower energy)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

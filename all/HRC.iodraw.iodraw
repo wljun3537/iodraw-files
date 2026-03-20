@@ -211,8 +211,8 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-67" value="lowest-energy / golden zone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="680" y="220" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="120" height="20" as="geometry" />
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

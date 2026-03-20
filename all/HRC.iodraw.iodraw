@@ -160,10 +160,10 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-51" value="\(R_1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="403" y="270" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-52" value="\(R_1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-52" value="\(R_2\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="463" y="270" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-53" value="\(R_1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-53" value="\(R_3\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="523" y="270" width="40" height="20" as="geometry" />
         </mxCell>
       </root>

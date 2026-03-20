@@ -208,8 +208,8 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-66" value="\(E...\) (kcal/item)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-67" value="lowest-energy / golden zone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="720" y="220" width="120" height="20" as="geometry" />
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-67" value="lowest-energy / golden zone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

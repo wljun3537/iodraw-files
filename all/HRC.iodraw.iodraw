@@ -167,7 +167,7 @@
           <mxGeometry x="523" y="270" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-54" value="Tier energy scale" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="600" y="165" width="58.2" height="10" as="geometry" />

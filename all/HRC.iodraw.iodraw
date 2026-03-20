@@ -229,6 +229,9 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-72" value="Docked rack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-73" value="Docked rack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

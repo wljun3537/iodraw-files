@@ -26,13 +26,13 @@
           <mxGeometry x="200" y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-6" value="\(O_2\):" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-7" value="\(O_3\):" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="200" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-8" value="\(O_4\):" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-9" value="a" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="20" height="20" as="geometry" />

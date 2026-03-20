@@ -193,6 +193,12 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-61" value="\(E_5 = 0.291\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="658.2" y="160" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-62" value="\(E_5 = 0.291\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="645.6" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-63" value="\(E_5 = 0.291\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="678.2" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

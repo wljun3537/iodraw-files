@@ -190,8 +190,8 @@
             <mxPoint x="600" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-61" value="\(E_5 = 0.291\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="680" y="160" width="120" height="20" as="geometry" />
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-61" value="\(E_5 = 0.291\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

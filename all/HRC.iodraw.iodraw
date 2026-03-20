@@ -256,8 +256,8 @@
             <mxPoint x="400" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-84" value="Workbench slot 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="80" height="20" as="geometry" />
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-84" value="Cumulative picking energy (kcal)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

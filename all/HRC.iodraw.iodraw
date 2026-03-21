@@ -566,7 +566,7 @@
           <mxGeometry x="250" y="460" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oP6A52bw3ULsOBE7kSxU-112" value="Rack visits" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="80" height="20" as="geometry" />
+          <mxGeometry x="570" y="460" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

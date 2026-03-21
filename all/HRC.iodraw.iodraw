@@ -559,6 +559,9 @@
         <mxCell id="oP6A52bw3ULsOBE7kSxU-106" value="Total&amp;nbsp;1.971 kcal&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oP6A52bw3ULsOBE7kSxU-107" value="Total&amp;nbsp;1.971 kcal&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

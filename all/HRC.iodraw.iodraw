@@ -298,7 +298,7 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8C8C8C;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="590" y="225" width="19.6" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;strokeColor=#262626;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="260" as="sourcePoint" />
             <mxPoint x="590" y="160" as="targetPoint" />
@@ -544,7 +544,7 @@
             <mxPoint x="700" y="426.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oP6A52bw3ULsOBE7kSxU-108" value="&amp;nbsp;Rack dispatches: 2&lt;div&gt;&amp;nbsp;Total picking energy: 1.971 kcal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#000000;fontSize=10;align=left;" vertex="1" parent="1">
+        <mxCell id="oP6A52bw3ULsOBE7kSxU-108" value="&amp;nbsp;Rack dispatches: 2&lt;div&gt;&amp;nbsp;Total picking energy: 1.971 kcal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#262626;fontSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="370" y="450" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oP6A52bw3ULsOBE7kSxU-110" value="&amp;nbsp;Rack dispatches: 3&lt;div&gt;&amp;nbsp;Total picking energy: 1.334 kcal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#262626;fontSize=10;align=left;" vertex="1" parent="1">

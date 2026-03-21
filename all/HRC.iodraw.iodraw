@@ -115,7 +115,7 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-101" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;\(O_4\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9DC3E6;strokeColor=#595959;fontFamily=Times New Roman;strokeWidth=0.75;" parent="1" vertex="1">
           <mxGeometry x="700" y="380" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCF6DE;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bYsgczJFBWByLW0m-J_o-1" value="(a) Rack-efficient pattern&lt;div&gt;(fewer dispatches)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">

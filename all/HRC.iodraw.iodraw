@@ -343,7 +343,7 @@
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-82" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="400" as="sourcePoint" />
-            <mxPoint x="490" y="400" as="targetPoint" />
+            <mxPoint x="500" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-84" value="Cumulative picking energy (kcal)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=9;" parent="1" vertex="1">

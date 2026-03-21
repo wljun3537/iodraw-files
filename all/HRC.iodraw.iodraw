@@ -119,7 +119,7 @@
           <mxGeometry x="380" y="220" width="420" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bYsgczJFBWByLW0m-J_o-1" value="(a) Rack-efficient pattern&lt;div&gt;(fewer dispatches)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="260" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYsgczJFBWByLW0m-J_o-2" value="(b) Ergonomic pattern&lt;div&gt;(lower energy)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="540" y="280" width="160" height="40" as="geometry" />

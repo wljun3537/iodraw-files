@@ -563,7 +563,7 @@
           <mxGeometry x="740" y="420" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oP6A52bw3ULsOBE7kSxU-108" value="Rack dispatches: 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

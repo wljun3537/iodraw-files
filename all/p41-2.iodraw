@@ -427,9 +427,6 @@
         <mxCell id="h701TGrOWnZ1LRnMk2hE-10" value="$$e_p(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="h701TGrOWnZ1LRnMk2hE-11">
           <mxGeometry y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h701TGrOWnZ1LRnMk2hE-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAFcSURBVGhD7dnBzYJAEIZhm7MMr/RAD9Tg1kAP1MDVM5c//8WLIcFM4hoyJMjufmsy43d4EjU45FXBRU/zPC+/5KQf8I7B3jHYOwZ7x2DvvhY8TdMuvX0tVYMlpOu6pWmaj2S7b4RXDe77fhO2R7bXM9CqBrdtu4naI9vrGWgMRnIbLCebEMImAEHmIk9mkODUk1OqYRg2+8wFCY5fPRKuv19LxBdS5ut95oIGI98JIfPMBMtteTyVnmEmOPe4Xi8+GAzA4BwMfi1G5H6qcRzfM0wFI5gKlo+mrI1TrWeYC9bH5xFmj2EGH8RgK8FCX/0cFZ9vLriUqeCf+0gz+CAGM7hMtWAEU8GP2y1bnGEq+H69Ln/nc7J7CO8ZDAZgcA4Gv4L/L5dkZoMRGAwACc5dVR21Xn2VggTLRXt8l9HkD3G9vxKQ4Ej/coGg91EKGmwBg71jsHcM9o7B3j0Bc4i14Ov1NI4AAAAASUVORK5CYII=;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="220" width="60" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

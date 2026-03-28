@@ -373,6 +373,12 @@
         <mxCell id="AIVQsbphD_A2GMr4Y7sq-42" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Order assignment rounds&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0;fontColor=#7C2D12;" parent="AIVQsbphD_A2GMr4Y7sq-126" vertex="1">
           <mxGeometry x="35" y="35" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="h701TGrOWnZ1LRnMk2hE-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-410" y="330" as="sourcePoint" />
+            <mxPoint x="-360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

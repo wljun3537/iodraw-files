@@ -394,7 +394,7 @@
         <mxCell id="h701TGrOWnZ1LRnMk2hE-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#C00000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-400" y="290" as="sourcePoint" />
-            <mxPoint x="-390" y="290" as="targetPoint" />
+            <mxPoint x="-380" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h701TGrOWnZ1LRnMk2hE-5" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#C00000;" edge="1" parent="1">
@@ -414,6 +414,9 @@
             <mxPoint x="-420" y="300" as="sourcePoint" />
             <mxPoint x="-420" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h701TGrOWnZ1LRnMk2hE-8" value="Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

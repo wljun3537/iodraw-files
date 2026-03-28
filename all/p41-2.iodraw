@@ -416,7 +416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h701TGrOWnZ1LRnMk2hE-8" value="Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="-360" y="240" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

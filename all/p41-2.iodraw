@@ -415,8 +415,8 @@
             <mxPoint x="-420" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h701TGrOWnZ1LRnMk2hE-8" value="picks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="240" width="40" height="40" as="geometry" />
+        <mxCell id="h701TGrOWnZ1LRnMk2hE-8" value="picks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="260" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

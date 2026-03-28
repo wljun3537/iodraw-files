@@ -16,7 +16,7 @@
         <mxCell id="AIVQsbphD_A2GMr4Y7sq-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#9AA0A6;" parent="1" vertex="1">
           <mxGeometry x="460" y="110" width="600" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="1xnW9b9b9ZSIppspCBkW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#9AA0A6;" parent="1" vertex="1">
+        <mxCell id="1xnW9b9b9ZSIppspCBkW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA0A6;" parent="1" vertex="1">
           <mxGeometry x="-160" y="110" width="600" height="330" as="geometry" />
         </mxCell>
         <mxCell id="1xnW9b9b9ZSIppspCBkW-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.cloud_service_package_file;" parent="1" vertex="1">

@@ -427,6 +427,9 @@
         <mxCell id="h701TGrOWnZ1LRnMk2hE-10" value="$$e_p(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="h701TGrOWnZ1LRnMk2hE-11">
           <mxGeometry y="10" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="h701TGrOWnZ1LRnMk2hE-12" value="Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

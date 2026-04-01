@@ -331,7 +331,7 @@
             <mxPoint x="270" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-72" value="Docked rack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-72" value="Serving rack" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="340" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JY5nZ3BC6YfUHFl-ZCjT-73" value="Workbench slot 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">

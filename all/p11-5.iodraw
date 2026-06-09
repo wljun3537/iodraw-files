@@ -313,7 +313,7 @@
             <mxPoint x="1100" y="839.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9VKiICuCgZeSIyfrK2GH-219" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Robot moving rack&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fontColor=#111827;" parent="1" vertex="1">
+        <mxCell id="9VKiICuCgZeSIyfrK2GH-219" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Robot moving rack&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fontColor=#2F2F2F;" parent="1" vertex="1">
           <mxGeometry x="1125" y="835" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9VKiICuCgZeSIyfrK2GH-228" value="" style="endArrow=none;html=1;strokeWidth=3;fillColor=none;fontFamily=Times New Roman;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6B7280;" parent="1" source="9VKiICuCgZeSIyfrK2GH-154" target="9VKiICuCgZeSIyfrK2GH-229" edge="1">
@@ -325,7 +325,7 @@
         <mxCell id="9VKiICuCgZeSIyfrK2GH-231" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Rack&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fontColor=#111827;" parent="1" vertex="1">
           <mxGeometry x="1175" y="695" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9VKiICuCgZeSIyfrK2GH-236" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Picking station&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="9VKiICuCgZeSIyfrK2GH-236" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Picking station&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fontColor=#2F2F2F;" parent="1" vertex="1">
           <mxGeometry x="1140" y="925" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hX6ixp5neo81_BjE_xAO-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=#DCE4DE;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
@@ -430,7 +430,7 @@
         <mxCell id="hX6ixp5neo81_BjE_xAO-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7C8078;fontColor=#ffffff;strokeWidth=2;fillColor=#D8D8D2;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1000" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hX6ixp5neo81_BjE_xAO-43" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Conveyor belt&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="hX6ixp5neo81_BjE_xAO-43" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Conveyor belt&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fontColor=#2F2F2F;" parent="1" vertex="1">
           <mxGeometry x="1145" y="1005" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hX6ixp5neo81_BjE_xAO-48" value="" style="shape=flexArrow;endArrow=classic;html=1;width=10;endSize=6.575;endWidth=16.666666666666668;fillColor=#B9852F;strokeWidth=2;strokeColor=none;" parent="1" edge="1">

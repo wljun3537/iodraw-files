@@ -14,7 +14,7 @@
           <mxGeometry x="480" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9VKiICuCgZeSIyfrK2GH-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DCE6EE;strokeWidth=3;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="350" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9VKiICuCgZeSIyfrK2GH-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DCE6EE;strokeWidth=3;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="40" height="40" as="geometry" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="9VKiICuCgZeSIyfrK2GH-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DCE6EE;strokeWidth=3;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="400" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9VKiICuCgZeSIyfrK2GH-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DCE6EE;strokeWidth=3;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9VKiICuCgZeSIyfrK2GH-74" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DCE6EE;strokeWidth=3;strokeColor=#1F3B4D;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="40" height="40" as="geometry" />
